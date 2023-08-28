@@ -5,12 +5,12 @@ repo: monitor # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Baidu
+    url: https://www.baidu.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: My H3C Router
     url: https://h3c.diele.me
   - name: My Spug
@@ -19,17 +19,21 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: monitor.cofire.cn
+  cname: monitor.diele.me
   # baseUrl: /your-repo-name
-  logoUrl: https://monitor.cofire.cn/static/img/icon.svg
+  logoUrl: https://monitor.diele.me/static/img/icon.svg
   name: Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/dolfly/monitor). No server required — just GitHub Actions, Issues, and Pages. 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: H3C Router
+      href: https://h3c.diele.me
+    - title: Spug
+      href: https://spug.diele.me
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
