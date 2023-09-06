@@ -22,7 +22,7 @@
     "url": "https://www.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1946,
     "timeMonth": 2243,
     "timeYear": 2243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-06": 0
+    }
   },
   {
     "name": "H3C",
