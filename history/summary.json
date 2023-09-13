@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 81,
-    "timeDay": 67,
-    "timeWeek": 76,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "time": 82,
+    "timeDay": 113,
+    "timeWeek": 72,
+    "timeMonth": 82,
+    "timeYear": 82,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 2238,
-    "timeDay": 2073,
-    "timeWeek": 2067,
-    "timeMonth": 2238,
-    "timeYear": 2238,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 2196,
+    "timeDay": 1369,
+    "timeWeek": 2121,
+    "timeMonth": 2196,
+    "timeYear": 2196,
     "dailyMinutesDown": {
       "2023-09-06": 50
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 36,
-    "timeWeek": 708,
-    "timeMonth": 353,
-    "timeYear": 353,
+    "time": 336,
+    "timeDay": 65,
+    "timeWeek": 709,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2023-08-28": 0
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 204,
+    "time": 118,
+    "timeDay": 61,
     "timeWeek": 159,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {
       "2023-08-28": 0
     }
