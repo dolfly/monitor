@@ -4,7 +4,7 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 82,
     "timeMonth": 86,
     "timeYear": 89,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "Baidu",
@@ -67,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/spug.diele.me.ico",
     "slug": "spug",
     "status": "down",
-    "uptime": "10.08%",
+    "uptime": "10.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.08%",
+    "uptimeYear": "10.07%",
     "time": 133,
     "timeDay": 111,
     "timeWeek": 156,
     "timeMonth": 97,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-04-16": 48,
+      "2024-04-16": 283,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
