@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 88,
-    "timeWeek": 106,
-    "timeMonth": 98,
-    "timeYear": 104,
+    "timeDay": 156,
+    "timeWeek": 111,
+    "timeMonth": 100,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 39
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 2168,
-    "timeDay": 2649,
-    "timeWeek": 2496,
-    "timeMonth": 2319,
-    "timeYear": 2177,
+    "time": 2170,
+    "timeDay": 2817,
+    "timeWeek": 2509,
+    "timeMonth": 2341,
+    "timeYear": 2180,
     "dailyMinutesDown": {
       "2024-07-12": 152,
       "2024-07-11": 106,
@@ -54,8 +54,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 228,
-    "timeWeek": 154,
+    "timeDay": 220,
+    "timeWeek": 173,
     "timeMonth": 175,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -66,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/spug.diele.me.ico",
     "slug": "spug",
     "status": "down",
-    "uptime": "4.98%",
+    "uptime": "4.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 133,
-    "timeDay": 223,
-    "timeWeek": 128,
-    "timeMonth": 156,
+    "timeDay": 59,
+    "timeWeek": 121,
+    "timeMonth": 151,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-12-09": 71,
+      "2024-12-10": 70,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -440,8 +441,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   }
 ]
