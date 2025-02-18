@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 84,
-    "timeWeek": 114,
-    "timeMonth": 121,
+    "timeDay": 101,
+    "timeWeek": 112,
+    "timeMonth": 122,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 39
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 2229,
-    "timeDay": 2446,
-    "timeWeek": 2346,
-    "timeMonth": 2420,
-    "timeYear": 2267,
+    "time": 2226,
+    "timeDay": 1538,
+    "timeWeek": 2201,
+    "timeMonth": 2374,
+    "timeYear": 2266,
     "dailyMinutesDown": {
       "2024-07-12": 152,
       "2024-07-11": 106,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 171,
-    "timeWeek": 161,
-    "timeMonth": 160,
+    "timeDay": 116,
+    "timeWeek": 144,
+    "timeMonth": 158,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -66,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/spug.diele.me.ico",
     "slug": "spug",
     "status": "down",
-    "uptime": "4.34%",
+    "uptime": "4.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 128,
-    "timeDay": 60,
-    "timeWeek": 94,
-    "timeMonth": 148,
+    "timeDay": 126,
+    "timeWeek": 98,
+    "timeMonth": 151,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-02-17": 65,
+      "2025-02-18": 63,
+      "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -440,8 +441,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   }
 ]
